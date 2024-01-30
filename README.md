@@ -3,6 +3,9 @@
 ## Overview
 This is a web application built using Streamlit for classifying tomato leaf diseases. The app takes an image of a tomato leaf as input and predicts whether the leaf is healthy or affected by one of the common diseases.
 
+## Dataset from Kaggle
+[Dataset Link](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
+
 ## Demo
 [Link to live demo](https://tomatoleafclassification.streamlit.app/)
 
