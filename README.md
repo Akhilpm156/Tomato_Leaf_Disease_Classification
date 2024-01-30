@@ -7,6 +7,14 @@ This is a web application built using Streamlit for classifying tomato leaf dise
 [Dataset Link](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
 ## Web app
+class labels : </br>
+1.Tomato_Bacterial_spot </br>
+2.Tomato_Early_blight </br>
+3.Tomato_Spider_mites_Two_spotted_spider_mite </br>
+4.Tomato__Tomato_YellowLeaf__Curl_Virus </br>
+5.Tomato__Tomato_mosaic_virus </br>
+6.Tomato_healthy </br>
+
 [Link to live app](https://tomatoleafclassification.streamlit.app/)
 
 ## Installation
