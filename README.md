@@ -6,8 +6,8 @@ This is a web application built using Streamlit for classifying tomato leaf dise
 ## Dataset from Kaggle
 [Dataset Link](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
-## Demo
-[Link to live demo](https://tomatoleafclassification.streamlit.app/)
+## Web app
+[Link to live app](https://tomatoleafclassification.streamlit.app/)
 
 ## Installation
 1. Clone this repository:
